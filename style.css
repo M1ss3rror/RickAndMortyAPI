@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #29A624;
+}
+
+a {
+    color: #29A624 !important;
+}
+
+b {
+    color: #fff !important;
+}
+
+.fas {
+    color: #fff !important;
+}
+
+@media(max-width: 768 px) {
+    .w-form-nav {
+        width: 70%;
+    }
+}
+
+.vivo {
+    background-color: #32e62c5b
+}
+
+.muerto {
+    background-color: #e62c2c5b
+}
